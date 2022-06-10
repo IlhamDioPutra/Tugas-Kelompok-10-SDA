@@ -1,6 +1,12 @@
 # Tugas-Kelompok-10-SDA
 Dengan Anggota :
 
+
+
+
+
+
+
 1.Ilham Dio Putra             (G1A021024) 
 
 2.Esti Asmareta               (G1A021042)
